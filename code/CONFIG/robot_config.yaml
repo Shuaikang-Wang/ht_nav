@@ -1,0 +1,10 @@
+name: robot_1
+
+type: point
+
+size: 0.15
+
+lidar:
+        radius: 0.5
+        resolution: 0.1
+
