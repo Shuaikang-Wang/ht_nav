@@ -2,7 +2,7 @@
 
 # Run
 
-Create a python env.
+Create a python env and run the following srcipt.
 ```console
 test_nav.py
 ```
